@@ -62,7 +62,7 @@ a.   KVL:
 
 b.  KCL:
 
-
+![image](https://github.com/Nanditha285/EXP-1/blob/main/Screenshot%202026-03-18%20170030.png?raw=true)
 
 
 Tabulation:
