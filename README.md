@@ -58,6 +58,7 @@ a.   KVL:
  
 ![imagr](https://github.com/Nanditha285/EXP-1/blob/main/Screenshot%202026-03-18%20170106.png?raw=true)
 
+![image](https://github.com/Nanditha285/EXP-1/blob/main/Screenshot%202026-03-18%20170044.png?raw=true)
 
 b.  KCL:
 
